@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.scrums.com"><img src="https://img.shields.io/badge/scrums.com-135BFF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0A0A0A" alt="scrums.com" /></a>
   <a href="https://www.linkedin.com/company/scrums-com/"><img src="https://img.shields.io/badge/LinkedIn-135BFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/London%20··%20New%20York%20·%20Joburg%20·%20Nairobi%20·%20Cape%20Town-135BFF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0A0A0A" alt="Locations" />
+  <img src="https://img.shields.io/badge/London%20·%20New%20York%20·%20Joburg%20·%20Nairobi%20·%20Cape%20Town-135BFF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0A0A0A" alt="Locations" />
   <img src="https://img.shields.io/badge/Sorted%20by-Sudo.-135BFF?style=flat-square&labelColor=0A0A0A" alt="Sorted by Sudo." />
 </p>
 
@@ -20,9 +20,9 @@
 
 Software delivery is not a services problem. It is an orchestration problem.
 
-Scrums.com is an AI-native **Software Engineering Orchestration Platform (SEOP)**. It helps organizations plan, build, scale, and operate software products, platforms, and technology capabilities through coordinated orchestration of AI agents, engineering talent, delivery teams, tooling, and infrastructure.
+Scrums.com is an AI-native **Software Engineering Orchestration Platform (SEOP)**. Mission control for engineering and product leaders. Instantly deploy AI agents, talent, teams, tools, infrastructure, and delivery operations from one platform with live engineering intelligence, unified reporting, and predictable software delivery. One contract. One SLA. One deploy. Software Engineering. Sorted.™
 
-It serves founders, executives, private-equity firms, venture-backed companies, and enterprise leadership teams running software at scale — engineering organizations from 20 to 5,000 engineers across North America, the UK, and South Africa, with concentration in FinTech and scaling technology businesses.
+It serves founders, executives, private-equity firms, venture-backed companies, and enterprise leadership teams running software at scale, engineering organizations from 20 to 5,000 engineers across North America, the UK, and South Africa, with concentration in FinTech and scaling technology businesses.
 
 Five product lines. One orchestration layer.
 
