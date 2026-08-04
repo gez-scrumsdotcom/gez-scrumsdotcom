@@ -85,7 +85,7 @@ Open-sourcing the substrate: the `domains.yaml` spec, the agent gateway spec, an
 
 ## Agent Arbiter 
 
-Agentic Swarms don't fail on capability. They fail on collision, especially in teh enterprise.
+Agentic Swarms don't fail on capability. They fail on collision, especially in the enterprise.
 
 **Agent Arbiter**  resolves conflicts in multi-agent systems by selecting the agent with explicit authority, based on real-world structures such as roles, contracts, and system ownership.
 https://github.com/gez-scrumsdotcom/agent-arbiter
