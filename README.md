@@ -46,7 +46,7 @@ Two front doors. One backend.
 
 ```
 scrums.ai/
-├── orchestrator/                 # canonical state — Supabase
+├── orchestrator/                 # canonical state
 ├── observability/                # metrics, OKRs, delivery signal
 └── domains/
     └── {domain}/
@@ -66,12 +66,12 @@ scrums.ai/
 | Principle | What it means |
 |---|---|
 | Unidirectional mutation | All state originates platform-layer downward. Downstream systems read and report. They never write upstream. |
-| Coordinate, never replicate | Supabase holds canonical codes and cross-system IDs. Not copies. |
+| Coordinate, never replicate | DB holds canonical codes and cross-system IDs. Not copies. |
 | Vocabulary is never unified | Only meaning is. Deterministic mapping tables bridge incompatible state models. |
 | Enforce with mechanism, not instruction | Prose is guidance. Worktrees, allocators, gates and branch protection are enforcement. |
 | Curation precedes automation | Automation follows hardening. Never the reverse. |
 
-Open-sourcing the substrate: the `domains.yaml` spec, the agent gateway spec, and the SKU taxonomy. Come for the substrate, stay for the network. The intelligence layer stays ours.
+Open-sourcing the substrate: the `domains.yaml` spec, the agent gateway spec, and the SKU taxonomy. Releases the substrate and powering the network growth. The intelligence telemetry layer stays Scrums.com.
 
 <p>
   <img src="https://img.shields.io/badge/domains.yaml-spec-135BFF?style=flat-square&logo=yaml&logoColor=white&labelColor=0A0A0A" />
@@ -83,12 +83,12 @@ Open-sourcing the substrate: the `domains.yaml` spec, the agent gateway spec, an
 
 ---
 
-## Agent Arbiter
+## Agent Arbiter 
 
-Swarms don't fail on capability. They fail on collision.
+Agentic Swarms don't fail on capability. They fail on collision, especially in teh enterprise.
 
-**Agent Arbiter** is the merge gate for multi-agent development. Workers run in isolated worktrees and PR into an integration branch. The arbiter serialises merges, rejects diffs that reach outside the brief, allocates ports deterministically, and gates the skills writer so learnings compound through review instead of self-merge.
-
+**Agent Arbiter**  resolves conflicts in multi-agent systems by selecting the agent with explicit authority, based on real-world structures such as roles, contracts, and system ownership.
+https://github.com/gez-scrumsdotcom/agent-arbiter
 ```
 Orchestrator            decompose → dispatch → integrate
 ├── Context Broker      serves slice contracts, read-only
@@ -123,10 +123,8 @@ Blast radius is enforced by the gate, not requested in a prompt. Anything you ca
 **Data & state**
 
 <p>
-  <img src="https://img.shields.io/badge/Supabase-135BFF?style=flat-square&logo=supabase&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/PostgreSQL-135BFF?style=flat-square&logo=postgresql&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Prisma-135BFF?style=flat-square&logo=prisma&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Directus-135BFF?style=flat-square&logo=directus&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Windmill-135BFF?style=flat-square&labelColor=0A0A0A" />
 </p>
 
@@ -157,7 +155,6 @@ Blast radius is enforced by the gate, not requested in a prompt. Anything you ca
   <img src="https://img.shields.io/badge/ClickUp-135BFF?style=flat-square&logo=clickup&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Sage%20Intacct-135BFF?style=flat-square&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/PostHog-135BFF?style=flat-square&logo=posthog&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Webflow-135BFF?style=flat-square&logo=webflow&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Orb-135BFF?style=flat-square&labelColor=0A0A0A" />
 </p>
 
