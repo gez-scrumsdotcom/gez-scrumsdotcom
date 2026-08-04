@@ -10,13 +10,13 @@
 <p align="center">
   <a href="https://www.scrums.com"><img src="https://img.shields.io/badge/scrums.com-135BFF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0A0A0A" alt="scrums.com" /></a>
   <a href="https://www.linkedin.com/company/scrums-com/"><img src="https://img.shields.io/badge/LinkedIn-135BFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0A" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/London%20·%20Johannesburg%20·%20Cape%20Town-135BFF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0A0A0A" alt="Locations" />
+  <img src="https://img.shields.io/badge/London%20··%20New%20York%20·%20Joburg%20·%20Nairobi%20·%20Cape%20Town-135BFF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0A0A0A" alt="Locations" />
   <img src="https://img.shields.io/badge/Sorted%20by-Sudo.-135BFF?style=flat-square&labelColor=0A0A0A" alt="Sorted by Sudo." />
 </p>
 
 ---
 
-## The thesis
+## The mission
 
 Software delivery is not a services problem. It is an orchestration problem.
 
@@ -131,7 +131,8 @@ Blast radius is enforced by the gate, not requested in a prompt. Anything you ca
 **Agents**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-135BFF?style=flat-square&logo=anthropic&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Devin-135BFF?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Codex-135BFF?style=flat-square&logo=openai&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Claude%20Code-135BFF?style=flat-square&logo=anthropic&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/MCP-135BFF?style=flat-square&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Open%20Weights-135BFF?style=flat-square&logo=huggingface&logoColor=white&labelColor=0A0A0A" />
@@ -146,6 +147,9 @@ Blast radius is enforced by the gate, not requested in a prompt. Anything you ca
   <img src="https://img.shields.io/badge/Cloudflare-135BFF?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Railway-135BFF?style=flat-square&logo=railway&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Auth0-135BFF?style=flat-square&logo=auth0&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS-135BFF?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-135BFF?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Vercel-135BFF?style=flat-square&logo=vercel&logoColor=white&labelColor=0A0A0A" />
 </p>
 
 **Business systems**
@@ -153,7 +157,6 @@ Blast radius is enforced by the gate, not requested in a prompt. Anything you ca
 <p>
   <img src="https://img.shields.io/badge/HubSpot-135BFF?style=flat-square&logo=hubspot&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/ClickUp-135BFF?style=flat-square&logo=clickup&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Sage%20Intacct-135BFF?style=flat-square&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/PostHog-135BFF?style=flat-square&logo=posthog&logoColor=white&labelColor=0A0A0A" />
   <img src="https://img.shields.io/badge/Orb-135BFF?style=flat-square&labelColor=0A0A0A" />
 </p>
